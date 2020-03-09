@@ -1,3 +1,4 @@
+(* @author Hayato Washio *)
 (* tautology checker *)
 (* Tautology means that a logical expression is always true.*)
 (* An example of tautology: ¬ (p ∧ q) → (¬ p ∨ ¬ q) *)
